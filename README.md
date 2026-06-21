@@ -349,19 +349,8 @@ http://127.0.0.1:5000
 
 # 📸 Application Preview
 
+<img width="761" height="593" alt="image" src="https://github.com/user-attachments/assets/5763c06e-81d2-4081-9449-151983c6f233" />
 
-(Add your screenshots here)
-
-
-Example:
-
-```
-Input Weather Parameters
-          |
-          v
-FWI Prediction Output
-
-```
 
 
 ---
@@ -379,6 +368,10 @@ scikit-learn
 
 ---
 
+
+
+---
+
 # 👨‍💻 Author
 
 
@@ -387,8 +380,7 @@ scikit-learn
 
 LinkedIn:
 
-https://www.linkedin.com/in/devendraraj58/
-
+www.linkedin.com/in/devendraraj58
 
 
 GitHub:
@@ -401,3 +393,4 @@ https://github.com/DevendraRaj58
 # ⭐ If you found this project useful
 
 Give it a star ⭐ on GitHub!
+
